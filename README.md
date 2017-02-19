@@ -1,2 +1,2 @@
 # SimpleSentenceGenerator
-A simple sentence generator made in JavaScript
+A simple sentence generator made in JavaScript using arrays.
